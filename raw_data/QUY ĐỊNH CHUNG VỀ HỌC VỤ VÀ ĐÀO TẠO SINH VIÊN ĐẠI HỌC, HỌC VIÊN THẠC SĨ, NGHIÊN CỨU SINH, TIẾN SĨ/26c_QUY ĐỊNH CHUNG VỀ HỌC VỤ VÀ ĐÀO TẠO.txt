@@ -1,0 +1,9 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+
+Chương 8. BÁO CÁO, LƯU TRỮ HỌC VỤ
+Điều 26. Hồ sơ học phần
+
+
+Lưu ý: Chỉ cần cung cấp đề gốc và đáp án của đề gốc đối với dạng trắc nghiệm.
+Hồ sơ học phần được giảng viên lập từng học kỳ có giảng dạy học phần, cho từng lớp học phần giảng viên phụ trách. Ở các học kỳ có nhiều hơn một lớp học phần, hồ sơ học phần được lập chung cho một học phần, bao gồm đầy đủ các thành phần dùng chung (như đề cương, bài giảng, đề thi, …) và các phần riêng cho từng nhóm lớp (bảng điểm, bài làm của người học, ghi chú, …). Khoa có thể phân công một giảng viên thực hiện việc lập hồ sơ.
+Tất cả các hồ sơ học phần của một học phần được tập hợp thành bộ hồ sơ học phần của mỗi học phần và được lưu trữ tại Khoa.

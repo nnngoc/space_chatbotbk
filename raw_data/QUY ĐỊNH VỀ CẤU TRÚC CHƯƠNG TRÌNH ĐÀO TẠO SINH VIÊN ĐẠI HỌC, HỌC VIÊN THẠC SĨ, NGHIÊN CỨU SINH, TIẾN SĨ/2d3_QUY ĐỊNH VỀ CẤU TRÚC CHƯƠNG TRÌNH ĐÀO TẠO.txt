@@ -1,0 +1,4 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+3. Điều kiện tiên quyết của học phần
+- Học phần A là học phần khuyến nghị của học phần B: người học nên tích luỹ hoặc tự chuẩn bị các kiến thức của học phần A trước khi đăng ký học phần B để đạt hiệu quả cao khi học học phần B.

@@ -1,0 +1,4 @@
+chromadb==0.4.15
+langchain==0.0.331
+sentence_transformers
+streamlit

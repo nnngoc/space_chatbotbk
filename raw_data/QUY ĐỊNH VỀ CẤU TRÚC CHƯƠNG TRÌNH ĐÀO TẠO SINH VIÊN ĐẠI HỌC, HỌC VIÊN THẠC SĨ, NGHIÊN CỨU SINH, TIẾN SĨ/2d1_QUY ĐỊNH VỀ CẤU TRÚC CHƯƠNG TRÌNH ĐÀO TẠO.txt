@@ -1,0 +1,5 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+3. Điều kiện tiên quyết của học phần
+- Học phần A là học phần tiên quyết của học phần B: người học phải tích luỹ được học phần A trước khi đăng ký học học phần B. Trong trường hợp cần thiết, điều kiện này còn kèm theo kết quả học tập tối thiểu của học phần A từ một mức điểm cụ thể.
+

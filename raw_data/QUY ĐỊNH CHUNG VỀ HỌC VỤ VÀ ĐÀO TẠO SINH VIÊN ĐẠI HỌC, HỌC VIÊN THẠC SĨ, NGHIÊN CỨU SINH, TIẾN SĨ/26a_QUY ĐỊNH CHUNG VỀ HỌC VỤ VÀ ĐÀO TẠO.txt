@@ -1,0 +1,14 @@
+QUY ĐỊNH CHUNG VỀ HỌC VỤ VÀ ĐÀO TẠO
+
+Chương 8. BÁO CÁO, LƯU TRỮ HỌC VỤ
+Điều 26. Hồ sơ học phần
+
+
+Hồ sơ học phần bao gồm:
+1.  Đề cương học phần.
+2.  Bộ slide bài giảng.
+3.  (Bản sao) Bảng điểm học phần.
+4.  Các đề và đáp án của bài tập, thực hành, thí nghiệm được sử dụng trong học phần.
+5.  Đầu bài và hướng dẫn chấm bài của các bài tập lớn.
+6.  Bài làm các bài tập lớn của người học. Chỉ lựa chọn các bài tiêu biểu của người học ở 3 mức xấu, trung bình, tốt; mỗi loại ít nhất một bài.
+

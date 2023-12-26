@@ -1,0 +1,5 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+2. Học phần
+Mỗi học phần có khối lượng 3-4 tín chỉ. Các học phần thuộc khối kiến thức giáo dục chung, khóa luận tốt nghiệp, luận văn thạc sĩ, luận án tiến sĩ có quy định riêng về khối lượng tín chỉ. Các học phần thực hành (bài tập, đồ án, thí nghiệm, thực hành, thực tập ngoài trường, ...) có thể có khối lượng nhỏ hơn 3 tín chỉ.
+Nội dung một học phần có thể bao gồm giảng dạy lý thuyết và thực hành, trong đó phần thực hành đảm bảo tối thiểu 20% khối lượng (tín chỉ) học phần.

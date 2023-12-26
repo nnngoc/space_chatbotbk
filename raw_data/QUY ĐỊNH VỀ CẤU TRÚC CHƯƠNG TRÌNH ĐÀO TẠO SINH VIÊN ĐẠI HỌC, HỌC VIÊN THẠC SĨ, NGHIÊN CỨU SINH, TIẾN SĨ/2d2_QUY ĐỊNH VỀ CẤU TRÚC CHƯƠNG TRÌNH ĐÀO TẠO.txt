@@ -1,0 +1,5 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+3. Điều kiện tiên quyết của học phần
+- Học phần A là học phần song hành của học phần B: người học phải tích luỹ được học phần A trước khi đăng ký học phần B, hoặc phải tích luỹ cả học phần A và học phần B trong cùng một học kỳ (khi đó học phần B chỉ được xác nhận là đã tích luỹ khi học phần A đã được xác nhận là đã tích luỹ trong học kỳ đăng ký học).
+

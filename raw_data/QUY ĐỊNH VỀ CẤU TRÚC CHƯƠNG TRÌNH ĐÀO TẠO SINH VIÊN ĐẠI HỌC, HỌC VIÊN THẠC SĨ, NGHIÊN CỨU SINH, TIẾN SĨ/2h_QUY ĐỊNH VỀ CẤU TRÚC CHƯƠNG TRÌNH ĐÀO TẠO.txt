@@ -1,0 +1,4 @@
+QUY ĐỊNH VỀ CẤU TRÚC CHƯƠNG TRÌNH ĐÀO TẠO
+
+7. Chuẩn đầu ra của chương trình đào tạo
+Chuẩn đầu ra của chương trình đào tạo phải phù hợp với các quy định hiện hành, phù hợp với mô tả năng lực người học đối với từng trình độ theo khung trình độ quốc gia Việt Nam, bộ năng lực và phẩm chất sinh viên tốt nghiệp của trường và của ĐHQG-HCM. Chuẩn đầu ra của chương trình đào tạo phải đo lường được để xây dựng chương trình đào tạo, thực hiện giảng dạy và kiểm tra đánh giá dựa trên chuẩn đầu ra.
